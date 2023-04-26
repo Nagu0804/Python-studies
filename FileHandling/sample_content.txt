@@ -1,0 +1,6 @@
+1.File handling is an important part of any web application.
+2.Python has several functions , that is
+            1. creating,
+            2. reading, 
+            3. updating,
+            4. deleting files.

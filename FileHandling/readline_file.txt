@@ -1,0 +1,4 @@
+orange is a colour
+apple is a fruit
+bike is a vehicle
+lap is a machine
